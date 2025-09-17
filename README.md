@@ -1,6 +1,6 @@
 # CS-project
 To do by 20/09/2025:
-- read documentation of kivy
+- read documentation of PyQt6
 - learn how APIs work
 - learn how git works for version control
 - practise PyAt6 with a basic app like a calcualtor or smt
